@@ -1,5 +1,9 @@
 uhbuebchhuebch
+<<<<<<< HEAD
+jncfcdfcftccjeninicc
+=======
 jnchihihihicjeninicc
+>>>>>>> c7c64f300d9df818040081e880050f3e6c3be117
 kjcnjenj
 ecmjenc
 jbvfiudiuv
